@@ -16,7 +16,7 @@ Aprenda inglês através de gamification com o [duolingo](https://pt.duolingo.co
 [Python](https://www.python.org/)
 
 ### Livros
-Apreda [Java](http://chimera.labs.oreilly.com/books/1234000001805)
+Aprenda [Java](http://chimera.labs.oreilly.com/books/1234000001805)
 <br>Python [CookBook](http://chimera.labs.oreilly.com/books/1230000000393)
 
 ### Artigos da Área
